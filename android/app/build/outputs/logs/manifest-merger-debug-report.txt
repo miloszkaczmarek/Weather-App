@@ -1,0 +1,206 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+MERGED from [com.facebook.react:react-native:0.58.3] /home/milosz/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/5fde7e418322013fbb3196f3e6cdd511/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/93a9bf3942db40f4cb2ff724680dfa37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b3979d9941685fb2ab6b2ec9d52793d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2c5a44d7601c1e6bfa5acbf1008ff5e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4b4f9ccd0f682b34a93ee0786e0c07ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7c3d5549f1c641f5274f32a3d47fda2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9c4cebb3057722a6bf06aa334a2001ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e221f6b9f82f58a86ecd257660e2ce76/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b17d3f1f4e398bebd2392f7a18d815b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/607b6f3319b9fe06c389a3925369065a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0af8fbd08bfcadd3446d46813fb53377/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2f3859ae7bcadd6d0ee7fdbf484aaa60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b4617aa8c118707090bd24a04685d91e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b09c95e077bea5b8279073a6dd8843c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8ecb7b626ea76444e658a8e61e47d77d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f4ab29b894e7a3b6b8c236af4532b6e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a30173e08763a6c8e76c0fc69f1b28ac/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e5076542ae22f9634b7c975d6528406d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55085157e3fa82ab40f82215db334f57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/aeb726039c2e077371db3b8379fbc246/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eb8991e27746d89cf5bb1aa85df2c7e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e44f23e6753d3ebafebee3da8aa31911/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa8798c30bf739a3865d37f7b4ab250a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/dd81a3d3fe5bf7926dd902ca7e5ec786/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b46368e69f3a1ea61bc030998a970972/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6651fa1c3bf479de3410cf51dd74a587/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/254c27a2d86ef737c106424bd8ea8adc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/892d9dda9c352c91c505bdaada7a85af/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/dc61bd7db43e31f36162a0edf8f162d0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b471da8bb25871495ecbfcee9a2143b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b9257f3ee965d3c54a2098300887bcb8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ba9a6511b3ca0cd60be0a5e921c6da7c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/877a51955c3b9bc665055456239d6622/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/milosz/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/db3a297ffcbfe935c3c35415290392ce/AndroidManifest.xml:1:1-3:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/896e6bbe260f4215c2d1c91ecad75491/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+	package
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:2:5-25
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.58.3] /home/milosz/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/5fde7e418322013fbb3196f3e6cdd511/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.58.3] /home/milosz/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/5fde7e418322013fbb3196f3e6cdd511/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.facebook.react:react-native:0.58.3] /home/milosz/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/5fde7e418322013fbb3196f3e6cdd511/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.58.3] /home/milosz/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/5fde7e418322013fbb3196f3e6cdd511/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f4ab29b894e7a3b6b8c236af4532b6e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f4ab29b894e7a3b6b8c236af4532b6e/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a30173e08763a6c8e76c0fc69f1b28ac/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a30173e08763a6c8e76c0fc69f1b28ac/AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/877a51955c3b9bc665055456239d6622/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/877a51955c3b9bc665055456239d6622/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/milosz/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/db3a297ffcbfe935c3c35415290392ce/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/milosz/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/db3a297ffcbfe935c3c35415290392ce/AndroidManifest.xml:2:3-17
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f4ab29b894e7a3b6b8c236af4532b6e/AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:roundIcon
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:11:7-52
+	android:icon
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:12:7-34
+	android:theme
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:13:7-38
+	android:name
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.udasie.MainActivity
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:14:7-23:18
+	android:label
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:16:9-41
+	android:windowSoftInputMode
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:17:9-79
+	android:name
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:15:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:24:17-81
+uses-sdk
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.58.3] /home/milosz/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/5fde7e418322013fbb3196f3e6cdd511/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.3] /home/milosz/.gradle/caches/transforms-1/files-1.1/react-native-0.58.3.aar/5fde7e418322013fbb3196f3e6cdd511/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/93a9bf3942db40f4cb2ff724680dfa37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/93a9bf3942db40f4cb2ff724680dfa37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b3979d9941685fb2ab6b2ec9d52793d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/5b3979d9941685fb2ab6b2ec9d52793d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2c5a44d7601c1e6bfa5acbf1008ff5e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2c5a44d7601c1e6bfa5acbf1008ff5e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4b4f9ccd0f682b34a93ee0786e0c07ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/4b4f9ccd0f682b34a93ee0786e0c07ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7c3d5549f1c641f5274f32a3d47fda2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/7c3d5549f1c641f5274f32a3d47fda2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9c4cebb3057722a6bf06aa334a2001ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/9c4cebb3057722a6bf06aa334a2001ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e221f6b9f82f58a86ecd257660e2ce76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/e221f6b9f82f58a86ecd257660e2ce76/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b17d3f1f4e398bebd2392f7a18d815b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/b17d3f1f4e398bebd2392f7a18d815b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/607b6f3319b9fe06c389a3925369065a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/607b6f3319b9fe06c389a3925369065a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0af8fbd08bfcadd3446d46813fb53377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/0af8fbd08bfcadd3446d46813fb53377/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2f3859ae7bcadd6d0ee7fdbf484aaa60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2f3859ae7bcadd6d0ee7fdbf484aaa60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b4617aa8c118707090bd24a04685d91e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/b4617aa8c118707090bd24a04685d91e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b09c95e077bea5b8279073a6dd8843c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/b09c95e077bea5b8279073a6dd8843c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8ecb7b626ea76444e658a8e61e47d77d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/8ecb7b626ea76444e658a8e61e47d77d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f4ab29b894e7a3b6b8c236af4532b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8f4ab29b894e7a3b6b8c236af4532b6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a30173e08763a6c8e76c0fc69f1b28ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/a30173e08763a6c8e76c0fc69f1b28ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e5076542ae22f9634b7c975d6528406d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e5076542ae22f9634b7c975d6528406d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55085157e3fa82ab40f82215db334f57/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/55085157e3fa82ab40f82215db334f57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/aeb726039c2e077371db3b8379fbc246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/aeb726039c2e077371db3b8379fbc246/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eb8991e27746d89cf5bb1aa85df2c7e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/eb8991e27746d89cf5bb1aa85df2c7e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e44f23e6753d3ebafebee3da8aa31911/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e44f23e6753d3ebafebee3da8aa31911/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa8798c30bf739a3865d37f7b4ab250a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aa8798c30bf739a3865d37f7b4ab250a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/dd81a3d3fe5bf7926dd902ca7e5ec786/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/dd81a3d3fe5bf7926dd902ca7e5ec786/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b46368e69f3a1ea61bc030998a970972/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/b46368e69f3a1ea61bc030998a970972/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6651fa1c3bf479de3410cf51dd74a587/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6651fa1c3bf479de3410cf51dd74a587/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/254c27a2d86ef737c106424bd8ea8adc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/254c27a2d86ef737c106424bd8ea8adc/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/892d9dda9c352c91c505bdaada7a85af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/892d9dda9c352c91c505bdaada7a85af/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/dc61bd7db43e31f36162a0edf8f162d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/dc61bd7db43e31f36162a0edf8f162d0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b471da8bb25871495ecbfcee9a2143b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/b471da8bb25871495ecbfcee9a2143b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b9257f3ee965d3c54a2098300887bcb8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b9257f3ee965d3c54a2098300887bcb8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ba9a6511b3ca0cd60be0a5e921c6da7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/ba9a6511b3ca0cd60be0a5e921c6da7c/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/877a51955c3b9bc665055456239d6622/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/milosz/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/877a51955c3b9bc665055456239d6622/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/896e6bbe260f4215c2d1c91ecad75491/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/milosz/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/896e6bbe260f4215c2d1c91ecad75491/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/milosz/Pulpit/udasie/android/app/src/main/AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
