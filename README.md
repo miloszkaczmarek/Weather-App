@@ -5,7 +5,7 @@ You can check 5 days forecast with details for your city. App is for android sys
 <strong>Used API:</strong> <a href="https://openweathermap.org/api">OpenWeatherMap</a>
 
 <strong>Screenshots:</strong> <br/>
-![Alt text](screenshot_app.png?raw=true "Title")
+![Alt text](screenshot_app.png?raw=true "Screenshot")
 
 <strong>Install:</strong> <br/>
 1. Clone this repo <code>https://github.com/miloszkaczmarek/Weather-App.git</code><br/>
