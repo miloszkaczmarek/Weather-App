@@ -6,6 +6,7 @@ You can check 5 days forecast with details for your city. App is for android sys
 
 <strong>Screenshots:</strong> <br/>
 ![Alt text](screenshot_app.png? "Screenshot")
+![Alt text](screenshot_app_2.png? "Screenshot")
 
 <strong>Install:</strong> <br/>
 1. Clone this repo <code>https://github.com/miloszkaczmarek/Weather-App.git</code><br/>
